@@ -13,6 +13,7 @@ Github 협업 연습
 - - - -
 # pull request 성공 명단
 - - - -
+- jungmin
 - 배예진
 - 송민진 "첫 커밋입니다."
 - 권인호(kih9070@gmail.com) merge 요청합니다.
