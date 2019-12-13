@@ -13,6 +13,7 @@ Github 협업 연습
 - - - -
 # pull request 성공 명단
 - - - -
-3. 권인호(kih9070@gmail.com) merge 요청합니다.
-2. 최종민(TopMAXIM) 로컬 로드 merge 요청합니다!
-1. 영환[OdinBOX]
+- 송민진 "첫 커밋입니다."
+- 권인호(kih9070@gmail.com) merge 요청합니다.
+- 최종민(TopMAXIM) 로컬 로드 merge 요청합니다!
+- 영환[OdinBOX]
