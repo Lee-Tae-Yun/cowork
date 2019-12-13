@@ -1,5 +1,4 @@
 Github 협업 연습
-
 ==============
 2019년 12월 13일 1학년2반
 ----------------------
@@ -14,5 +13,6 @@ Github 협업 연습
 - - - -
 # pull request 성공 명단
 - - - -
-최종민(TopMAXIM) 로컬 로드 merge 요청합니다!
-영환[OdinBOX]
+3. 권인호(kih9070@gmail.com) merge 요청합니다.
+2. 최종민(TopMAXIM) 로컬 로드 merge 요청합니다!
+1. 영환[OdinBOX]
