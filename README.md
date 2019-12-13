@@ -1,3 +1,5 @@
+Github 협업 연습
+==============
 2019년 12월 13일 1학년2반
 ----------------------
 0. github.com에 sign in. 
@@ -11,4 +13,6 @@
 - - - -
 # pull request 성공 명단
 - - - -
-권인호(kih9070@gmail.com) merge 요청합니다.
+3. 권인호(kih9070@gmail.com) merge 요청합니다.
+2. 최종민(TopMAXIM) 로컬 로드 merge 요청합니다!
+1. 영환[OdinBOX]
